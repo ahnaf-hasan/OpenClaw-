@@ -1,4 +1,4 @@
-# Security Policy
+# Security Policy of OpenClaw
 
 If you believe you've found a security issue in OpenClaw, report it privately first.
 
